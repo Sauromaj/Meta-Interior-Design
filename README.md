@@ -1,1 +1,1 @@
-Presenting paper in Graphics Interface Conference Kitchner-Waterloo Region 
+AuraHomeMR is an innovative application designed to revolutionize the furniture shopping experience by leveraging (MR) Mixed Reality Technology. Utilized Unity and Meta all in one SDK to develop MR application. Presenting paper in Graphics Interface Conference Kitchner-Waterloo Region. 
